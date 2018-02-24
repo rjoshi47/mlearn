@@ -4,7 +4,7 @@
     <property name="created">2018-02-11T16:21:07</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2017.3.2.0.0</property>
-    <property name="modified">2018-02-24T15:47:03</property>
+    <property name="modified">2018-02-24T17:16:10</property>
     <property name="originalScheme">_@user_Github</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
@@ -1103,7 +1103,7 @@
     <option name="PY.LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="d44435" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="PY.NUMBER">
